@@ -1,92 +1,166 @@
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-	<url>
-		<loc>http://cebuxatraveltours.tours/index.html</loc>
-	</url>
-	<url>
-		<loc>http://cebuxatraveltours.tours/about.html</loc>
-	</url>
-	<url>
-		<loc>http://cebuxatraveltours.tours/contact.html</loc>
-	</url>
-	<url>
-		<loc>http://cebuxatraveltours.tours/bohol-countryside-tour-all-in.html</loc>
-	</url>
-	<url>
-		<loc>http://cebuxatraveltours.tours/terms-and-conditions.html</loc>
-	</url>
-	<url>
-		<loc>http://cebuxatraveltours.tours/booking-policy.html</loc>
-	</url>
-	<url>
-		<loc>http://cebuxatraveltours.tours/privacy-policy.html</loc>
-	</url>
-	<url>
-		<loc>http://cebuxatraveltours.tours/thank-you-for-booking.html</loc>
-	</url>
-	<url>
-		<loc>http://cebuxatraveltours.tours/book-your-tour-with-us.html</loc>
-	</url>
-	<url>
-		<loc>http://cebuxatraveltours.tours/cebu-safari-adventure-park-tour.html</loc>
-	</url>
-	<url>
-		<loc>http://cebuxatraveltours.tours/oslob-whale-shark-and-sumilon-island-and-kawasan-falls-day-tour.html</loc>
-	</url>
-	<url>
-		<loc>http://cebuxatraveltours.tours/oslob-whale-shark-and-sumilon-island-and-simala-church-day-tour.html</loc>
-	</url>
-	<url>
-		<loc>http://cebuxatraveltours.tours/moalboal-sardines-run-and-badian-kawasan-falls-day-tour.html</loc>
-	</url>
-	<url>
-		<loc>http://cebuxatraveltours.tours/bantayan-island-tour.html</loc>
-	</url>
-	<url>
-		<loc>http://cebuxatraveltours.tours/2D1N-bohol-countryside-and-virgin-island-tour.html</loc>
-	</url>
-	<url>
-		<loc>http://cebuxatraveltours.tours/2D1N-bantayan-island-tour.html</loc>
-	</url>
-	<url>
-		<loc>http://cebuxatraveltours.tours/2D1N-moalboal-and-kawasan-falls-and-oslob-whaleshark.html</loc>
-	</url>
-	<url>
-		<loc>http://cebuxatraveltours.tours/2D1N-cebu-city-and-oslob-whale-shark-tour.html</loc>
-	</url>
-	<url>
-		<loc>http://cebuxatraveltours.tours/3D2N-bantayan-island-tour.html</loc>
-	</url>
-	<url>
-		<loc>http://cebuxatraveltours.tours/3D2N-cebu-city-and-bohol-countryside-tour.html</loc>
-	</url>
-	<url>
-		<loc>http://cebuxatraveltours.tours/3D2N-cebu-city-and-mountain-tour.html</loc>
-	</url>
-	<url>
-		<loc>http://cebuxatraveltours.tours/3D2N-cebu-city-and-moalboal-and-oslob-whale-shark-encounter-tour.html</loc>
-	</url>
-	<url>
-		<loc>http://cebuxatraveltours.tours/tour-packages.html</loc>
-	</url>
-	<url>
-		<loc>http://cebuxatraveltours.tours/cebu-south-adventure-tour-packages.html</loc>
-	</url>
-	<url>
-		<loc>http://cebuxatraveltours.tours/cebu-day-tours.html</loc>
-	</url>
-	<url>
-		<loc>http://cebuxatraveltours.tours/cebu-city-tour.html</loc>
-	</url>
-	<url>
-		<loc>http://cebuxatraveltours.tours/2-days-1-night-tour-packages.html</loc>
-	</url>
-	<url>
-		<loc>http://cebuxatraveltours.tours/3-days-2-nights-tour-packages.html</loc>
-	</url>
-	<url>
-		<loc>http://cebuxatraveltours.tours/simala-church-tour.html</loc>
-	</url>
-	<url>
-		<loc>http://cebuxatraveltours.tours/cebu-mountain-tour.html</loc>
-	</url>
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://cebuxatraveltours.tours/</loc>
+  <lastmod>2024-05-30T06:08:30+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://cebuxatraveltours.tours/about</loc>
+  <lastmod>2024-05-30T06:08:30+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://cebuxatraveltours.tours/cebu-day-tours.html</loc>
+  <lastmod>2024-05-30T06:08:30+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://cebuxatraveltours.tours/cebu-day-tour-packages/cebu-city-tour</loc>
+  <lastmod>2024-05-30T06:08:30+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://cebuxatraveltours.tours/cebu-day-tour-packages/oslob-whale-shark-and-sumilon-island-and-simala-church-day-tour</loc>
+  <lastmod>2024-05-30T06:08:30+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://cebuxatraveltours.tours/cebu-day-tour-packages/oslob-whale-shark-and-sumilon-island-and-kawasan-falls-day-tour</loc>
+  <lastmod>2024-05-30T06:08:30+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://cebuxatraveltours.tours/cebu-day-tour-packages/moalboal-sardines-run-and-badian-kawasan-falls-day-tour</loc>
+  <lastmod>2024-05-30T06:08:30+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://cebuxatraveltours.tours/cebu-day-tour-packages/bohol-countryside-tour-all-in</loc>
+  <lastmod>2024-05-30T06:08:30+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://cebuxatraveltours.tours/cebu-day-tour-packages/cebu-mountain-tour</loc>
+  <lastmod>2024-05-30T06:08:30+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://cebuxatraveltours.tours/cebu-day-tour-packages/simala-church-tour</loc>
+  <lastmod>2024-05-30T06:08:30+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://cebuxatraveltours.tours/cebu-day-tour-packages/bantayan-island-tour</loc>
+  <lastmod>2024-05-30T06:08:30+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://cebuxatraveltours.tours/cebu-day-tour-packages/cebu-safari-adventure-park-tour</loc>
+  <lastmod>2024-05-30T06:08:30+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://cebuxatraveltours.tours/tour-packages</loc>
+  <lastmod>2024-05-30T06:08:30+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://cebuxatraveltours.tours/cebu-multi-day-tours/2-days-1-night-tour-packages</loc>
+  <lastmod>2024-05-30T06:08:30+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://cebuxatraveltours.tours/cebu-multi-day-tours/3-days-2-nights-tour-packages</loc>
+  <lastmod>2024-05-30T06:08:30+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://cebuxatraveltours.tours/contact</loc>
+  <lastmod>2024-05-30T06:08:30+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://cebuxatraveltours.tours/book-your-tour-with-us</loc>
+  <lastmod>2024-05-30T06:08:30+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://cebuxatraveltours.tours/cebu-day-tour-packages/cebu-day-tours</loc>
+  <lastmod>2024-05-30T06:08:30+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://cebuxatraveltours.tours/cebu-day-tour-packages/cebu-south-adventure-tour-packages</loc>
+  <lastmod>2024-05-30T06:08:30+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://cebuxatraveltours.tours/terms-and-conditions</loc>
+  <lastmod>2024-05-30T06:08:30+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://cebuxatraveltours.tours/booking-policy</loc>
+  <lastmod>2024-05-30T06:08:30+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://cebuxatraveltours.tours/privacy-policy</loc>
+  <lastmod>2024-05-30T06:08:30+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://cebuxatraveltours.tours/cebu-multi-day-tours/2D1N-cebu-city-and-oslob-whale-shark-tour</loc>
+  <lastmod>2024-05-30T06:08:30+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cebuxatraveltours.tours/cebu-multi-day-tours/2D1N-moalboal-and-kawasan-falls-and-oslob-whaleshark</loc>
+  <lastmod>2024-05-30T06:08:30+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cebuxatraveltours.tours/cebu-multi-day-tours/2D1N-bantayan-island-tour</loc>
+  <lastmod>2024-05-30T06:08:30+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cebuxatraveltours.tours/cebu-multi-day-tours/2D1N-bohol-countryside-and-virgin-island-tour</loc>
+  <lastmod>2024-05-30T06:08:30+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cebuxatraveltours.tours/cebu-multi-day-tours/3D2N-cebu-city-and-moalboal-and-oslob-whale-shark-encounter-tour</loc>
+  <lastmod>2024-05-30T06:08:30+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cebuxatraveltours.tours/cebu-multi-day-tours/3D2N-cebu-city-and-mountain-tour</loc>
+  <lastmod>2024-05-30T06:08:30+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cebuxatraveltours.tours/cebu-multi-day-tours/3D2N-cebu-city-and-bohol-countryside-tour</loc>
+  <lastmod>2024-05-30T06:08:30+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cebuxatraveltours.tours/cebu-multi-day-tours/3D2N-bantayan-island-tour</loc>
+  <lastmod>2024-05-30T06:08:30+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://cebuxatraveltours.tours/thank-you-for-booking</loc>
+  <lastmod>2024-05-30T06:08:30+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+
 </urlset>
