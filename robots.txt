@@ -1,2 +1,4 @@
 User-agent: *
+Allow: /
 Disallow: /cgi-bin
+Sitemap: https://cebuxatraveltours.tours/sitemap.xml
